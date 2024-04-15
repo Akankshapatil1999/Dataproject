@@ -11,20 +11,22 @@ The objective of this project is to develop a robust system that can accurately 
 7 Deployment: Develop a web-based dashboard or a mobile application where users can see current and predicted gold prices. Implement features like alerts for significant price changes.
 
 
-##Tools and Technologies
+## Tools and Technologies
 Programming Languages: Python, R
 Libraries and Frameworks: pandas, NumPy, scikit-learn, TensorFlow, Keras, Plotly for visualization, Flask/Django for web deployment
 Databases: SQL, NoSQL (for storing and accessing historical data)
 Deployment Tools: AWS, Heroku, Docker (for containerization and deployment)
-Expected Outcomes
+## Expected Outcomes
 A reliable and accurate gold price prediction model.
 A user-friendly interface for interacting with the predictive system, allowing for access to both historical data analysis and future price predictions.
 Regular updates and improvements to the system based on new data and feedback from initial deployments.
-Challenges and Risks
+
+## Challenges and Risks
 Ensuring the accuracy and reliability of the historical data.
 Handling the complexity of economic indicators and their non-linear relationships with gold prices.
 Maintaining the system's responsiveness to market volatility and external economic shocks.
-Future Enhancements
+
+## Future Enhancements
 Incorporate real-time data feeds for up-to-the-minute accuracy in predictions.
 Extend the model to include predictions for other precious metals and commodities.
 Implement machine learning models that can dynamically adapt to new market conditions.
